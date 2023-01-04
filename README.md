@@ -16,3 +16,4 @@ For `watch_next.py`, after the relevant components have been installed, run:
 ```
 $ python watch_next.py
 ```
+This script will output what movie to watch next, based on a given description. It will compare this description to a list of movie descriptions in `movies.txt`, calculate similarity values, & return the movie with the highest similarity value.
